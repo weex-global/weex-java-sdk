@@ -16,15 +16,15 @@ public class BaseTest {
 	/**
 	 * 用户 apiKey 替换成自己的
 	 */
-	private final String apiKey = "weex_015b7fa0ce4da88fb8151494a061b327";
+	private final String apiKey = "weex_015b7fa4a061b327";
 	/**
 	 * 用户 secretKey 替换成自己的
 	 */
-	private final String secretKey = "235cd58a3443cf8e36bcc1c95a235cc825f559b9bd63314dc19e85b8fd1be49b";
+	private final String secretKey = "235cd58ac19e85b8fd1be49b";
 	/**
 	 * 口令 替换成自己的
 	 */
-	private final String passphrase = "a1234567";
+	private final String passphrase = "a123233";
 	/**
 	 * weex open api 根路径
 	 */
